@@ -1,0 +1,204 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Dapper/2.0.90": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Dapper.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {}
+        }
+      },
+      "FluentValidation/10.3.3": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/FluentValidation.dll": {}
+        }
+      },
+      "Company.Learn.Cross.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "FluentValidation": "10.3.3"
+        },
+        "compile": {
+          "bin/placeholder/Company.Learn.Cross.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Company.Learn.Cross.Common.dll": {}
+        }
+      },
+      "Company.Learn.Domain.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Company.Learn.Domain.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Company.Learn.Domain.Entity.dll": {}
+        }
+      },
+      "Company.Learn.Infrastructure.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Company.Learn.Domain.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Company.Learn.Infrastructure.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Company.Learn.Infrastructure.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dapper/2.0.90": {
+      "sha512": "e4YjOLJptnpwHIbP8HxjaYf7So9lhUC43rvvGMEkH4Q4CiVlm4rOxYDo0HyuHlMQKj0U5Ob/nCMm52TUhTaZQg==",
+      "type": "package",
+      "path": "dapper/2.0.90",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Dapper.png",
+        "dapper.2.0.90.nupkg.sha512",
+        "dapper.nuspec",
+        "lib/net461/Dapper.dll",
+        "lib/net461/Dapper.xml",
+        "lib/net5.0/Dapper.dll",
+        "lib/net5.0/Dapper.xml",
+        "lib/netstandard2.0/Dapper.dll",
+        "lib/netstandard2.0/Dapper.xml"
+      ]
+    },
+    "FluentValidation/10.3.3": {
+      "sha512": "sgRC+7q4mnmDHE9ehk2cvb+FDTy/gtw5iBoKFY3FVp1ZwFsLS0kIcdSpNlCO3XyyNIzZI2ca8I/YiFG9pM6x0Q==",
+      "type": "package",
+      "path": "fluentvalidation/10.3.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluent-validation-icon.png",
+        "fluentvalidation.10.3.3.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
+    "Company.Learn.Cross.Common/1.0.0": {
+      "type": "project",
+      "path": "../Company.Learn.Cross.Common/Company.Learn.Cross.Common.csproj",
+      "msbuildProject": "../Company.Learn.Cross.Common/Company.Learn.Cross.Common.csproj"
+    },
+    "Company.Learn.Domain.Entity/1.0.0": {
+      "type": "project",
+      "path": "../Company.Learn.Domain.Entity/Company.Learn.Domain.Entity.csproj",
+      "msbuildProject": "../Company.Learn.Domain.Entity/Company.Learn.Domain.Entity.csproj"
+    },
+    "Company.Learn.Infrastructure.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Company.Learn.Infrastructure.Interface/Company.Learn.Infrastructure.Interface.csproj",
+      "msbuildProject": "../Company.Learn.Infrastructure.Interface/Company.Learn.Infrastructure.Interface.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Company.Learn.Cross.Common >= 1.0.0",
+      "Company.Learn.Domain.Entity >= 1.0.0",
+      "Company.Learn.Infrastructure.Interface >= 1.0.0",
+      "Dapper >= 2.0.90"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Documentos\\CursoArquitecturaAplicaciones\\Company.Learn\\Company.Learn.Infrastructure.Repository\\Company.Learn.Infrastructure.Repository.csproj",
+      "projectName": "Company.Learn.Infrastructure.Repository",
+      "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\CursoArquitecturaAplicaciones\\Company.Learn\\Company.Learn.Infrastructure.Repository\\Company.Learn.Infrastructure.Repository.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\CursoArquitecturaAplicaciones\\Company.Learn\\Company.Learn.Infrastructure.Repository\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/7jvHY2uLdXR7bXecVhUSZp2Q3Oaugh8NYS4eSUhXc9JzgzmnxB/api": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Usuario\\OneDrive\\Documentos\\CursoArquitecturaAplicaciones\\Company.Learn\\Company.Learn.Cross.Common\\Company.Learn.Cross.Common.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\CursoArquitecturaAplicaciones\\Company.Learn\\Company.Learn.Cross.Common\\Company.Learn.Cross.Common.csproj"
+            },
+            "C:\\Users\\Usuario\\OneDrive\\Documentos\\CursoArquitecturaAplicaciones\\Company.Learn\\Company.Learn.Domain.Entity\\Company.Learn.Domain.Entity.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\CursoArquitecturaAplicaciones\\Company.Learn\\Company.Learn.Domain.Entity\\Company.Learn.Domain.Entity.csproj"
+            },
+            "C:\\Users\\Usuario\\OneDrive\\Documentos\\CursoArquitecturaAplicaciones\\Company.Learn\\Company.Learn.Infrastructure.Interface\\Company.Learn.Infrastructure.Interface.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\CursoArquitecturaAplicaciones\\Company.Learn\\Company.Learn.Infrastructure.Interface\\Company.Learn.Infrastructure.Interface.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "Dapper": {
+            "target": "Package",
+            "version": "[2.0.90, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

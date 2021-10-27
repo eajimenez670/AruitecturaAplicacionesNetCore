@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Company.Learn.Application.DTO\Company.Learn.Application.DTO.csproj" />
+    <ProjectReference Include="..\Company.Learn.Application.Interface\Company.Learn.Application.Interface.csproj" />
+    <ProjectReference Include="..\Company.Learn.Application.Validator\Company.Learn.Application.Validator.csproj" />
+    <ProjectReference Include="..\Company.Learn.Cross.Common\Company.Learn.Cross.Common.csproj" />
+    <ProjectReference Include="..\Company.Learn.Domain.Entity\Company.Learn.Domain.Entity.csproj" />
+    <ProjectReference Include="..\Company.Learn.Domain.Interface\Company.Learn.Domain.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

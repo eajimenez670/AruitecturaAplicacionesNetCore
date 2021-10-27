@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Company.Learn.Domain.Core/1.0.0": {
+        "dependencies": {
+          "Company.Learn.Domain.Entity": "1.0.0",
+          "Company.Learn.Domain.Interface": "1.0.0",
+          "Company.Learn.Infrastructure.Interface": "1.0.0"
+        },
+        "runtime": {
+          "Company.Learn.Domain.Core.dll": {}
+        }
+      },
+      "Company.Learn.Domain.Entity/1.0.0": {
+        "runtime": {
+          "Company.Learn.Domain.Entity.dll": {}
+        }
+      },
+      "Company.Learn.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "Company.Learn.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Company.Learn.Domain.Interface.dll": {}
+        }
+      },
+      "Company.Learn.Infrastructure.Interface/1.0.0": {
+        "dependencies": {
+          "Company.Learn.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Company.Learn.Infrastructure.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Company.Learn.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Company.Learn.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Company.Learn.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Company.Learn.Infrastructure.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

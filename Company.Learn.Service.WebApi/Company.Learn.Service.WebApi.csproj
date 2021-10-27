@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Service.WebApi\Company.Learn.Service.WebApi.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.10" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.2.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.2.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.2.2" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.13.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Company.Learn.Application.DTO\Company.Learn.Application.DTO.csproj" />
+    <ProjectReference Include="..\Company.Learn.Application.Interface\Company.Learn.Application.Interface.csproj" />
+    <ProjectReference Include="..\Company.Learn.Application.Main\Company.Learn.Application.Main.csproj" />
+    <ProjectReference Include="..\Company.Learn.Application.Validator\Company.Learn.Application.Validator.csproj" />
+    <ProjectReference Include="..\Company.Learn.Cross.Common\Company.Learn.Cross.Common.csproj" />
+    <ProjectReference Include="..\Company.Learn.Cross.Logging\Company.Learn.Cross.Logging.csproj" />
+    <ProjectReference Include="..\Company.Learn.Cross.Mapper\Company.Learn.Cross.Mapper.csproj" />
+    <ProjectReference Include="..\Company.Learn.Domain.Core\Company.Learn.Domain.Core.csproj" />
+    <ProjectReference Include="..\Company.Learn.Domain.Entity\Company.Learn.Domain.Entity.csproj" />
+    <ProjectReference Include="..\Company.Learn.Domain.Interface\Company.Learn.Domain.Interface.csproj" />
+    <ProjectReference Include="..\Company.Learn.Infrastructure.Data\Company.Learn.Infrastructure.Data.csproj" />
+    <ProjectReference Include="..\Company.Learn.Infrastructure.Interface\Company.Learn.Infrastructure.Interface.csproj" />
+    <ProjectReference Include="..\Company.Learn.Infrastructure.Repository\Company.Learn.Infrastructure.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

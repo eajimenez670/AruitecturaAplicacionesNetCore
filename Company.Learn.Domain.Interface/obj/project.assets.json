@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Company.Learn.Domain.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Company.Learn.Domain.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Company.Learn.Domain.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Company.Learn.Domain.Entity/1.0.0": {
+      "type": "project",
+      "path": "../Company.Learn.Domain.Entity/Company.Learn.Domain.Entity.csproj",
+      "msbuildProject": "../Company.Learn.Domain.Entity/Company.Learn.Domain.Entity.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Company.Learn.Domain.Entity >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Documentos\\CursoArquitecturaAplicaciones\\Company.Learn\\Company.Learn.Domain.Interface\\Company.Learn.Domain.Interface.csproj",
+      "projectName": "Company.Learn.Domain.Interface",
+      "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\CursoArquitecturaAplicaciones\\Company.Learn\\Company.Learn.Domain.Interface\\Company.Learn.Domain.Interface.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\CursoArquitecturaAplicaciones\\Company.Learn\\Company.Learn.Domain.Interface\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/7jvHY2uLdXR7bXecVhUSZp2Q3Oaugh8NYS4eSUhXc9JzgzmnxB/api": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Usuario\\OneDrive\\Documentos\\CursoArquitecturaAplicaciones\\Company.Learn\\Company.Learn.Domain.Entity\\Company.Learn.Domain.Entity.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\CursoArquitecturaAplicaciones\\Company.Learn\\Company.Learn.Domain.Entity\\Company.Learn.Domain.Entity.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

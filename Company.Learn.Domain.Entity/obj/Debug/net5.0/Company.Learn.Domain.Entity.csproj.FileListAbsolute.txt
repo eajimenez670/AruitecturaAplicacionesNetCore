@@ -1,0 +1,11 @@
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Domain.Entity\bin\Debug\net5.0\Company.Learn.Domain.Entity.deps.json
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Domain.Entity\bin\Debug\net5.0\Company.Learn.Domain.Entity.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Domain.Entity\bin\Debug\net5.0\ref\Company.Learn.Domain.Entity.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Domain.Entity\bin\Debug\net5.0\Company.Learn.Domain.Entity.pdb
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Domain.Entity\obj\Debug\net5.0\Company.Learn.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Domain.Entity\obj\Debug\net5.0\Company.Learn.Domain.Entity.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Domain.Entity\obj\Debug\net5.0\Company.Learn.Domain.Entity.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Domain.Entity\obj\Debug\net5.0\Company.Learn.Domain.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Domain.Entity\obj\Debug\net5.0\Company.Learn.Domain.Entity.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Domain.Entity\obj\Debug\net5.0\ref\Company.Learn.Domain.Entity.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Domain.Entity\obj\Debug\net5.0\Company.Learn.Domain.Entity.pdb

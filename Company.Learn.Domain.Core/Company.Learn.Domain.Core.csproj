@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Company.Learn.Domain.Entity\Company.Learn.Domain.Entity.csproj" />
+    <ProjectReference Include="..\Company.Learn.Domain.Interface\Company.Learn.Domain.Interface.csproj" />
+    <ProjectReference Include="..\Company.Learn.Infrastructure.Interface\Company.Learn.Infrastructure.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

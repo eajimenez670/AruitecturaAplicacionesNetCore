@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sKPP5ckxH5ATmLRpgTD28eeRP9rQKTD1BPjv6heG9/3Gaztj9iROMrIE3C3sfHtb7R0u+LnOBqdf9wHahhWuNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\CursoArquitecturaAplicaciones\\Company.Learn\\Company.Learn.Cross.Common\\Company.Learn.Cross.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

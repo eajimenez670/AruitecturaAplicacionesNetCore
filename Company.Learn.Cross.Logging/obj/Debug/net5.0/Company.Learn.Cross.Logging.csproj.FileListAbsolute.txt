@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Logging\bin\Debug\net5.0\Company.Learn.Cross.Logging.deps.json
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Logging\bin\Debug\net5.0\Company.Learn.Cross.Logging.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Logging\bin\Debug\net5.0\ref\Company.Learn.Cross.Logging.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Logging\bin\Debug\net5.0\Company.Learn.Cross.Logging.pdb
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Logging\bin\Debug\net5.0\Company.Learn.Cross.Common.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Logging\bin\Debug\net5.0\Company.Learn.Cross.Common.pdb
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Logging\obj\Debug\net5.0\Company.Learn.Cross.Logging.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Logging\obj\Debug\net5.0\Company.Learn.Cross.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Logging\obj\Debug\net5.0\Company.Learn.Cross.Logging.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Logging\obj\Debug\net5.0\Company.Learn.Cross.Logging.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Logging\obj\Debug\net5.0\Company.Learn.Cross.Logging.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Logging\obj\Debug\net5.0\Company.Learn.Cross.Logging.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Logging\obj\Debug\net5.0\Company.Learn.Cross.Logging.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Logging\obj\Debug\net5.0\ref\Company.Learn.Cross.Logging.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Logging\obj\Debug\net5.0\Company.Learn.Cross.Logging.pdb

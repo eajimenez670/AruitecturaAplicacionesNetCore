@@ -1,0 +1,11 @@
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Application.DTO\bin\Debug\net5.0\Company.Learn.Application.DTO.deps.json
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Application.DTO\bin\Debug\net5.0\Company.Learn.Application.DTO.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Application.DTO\bin\Debug\net5.0\ref\Company.Learn.Application.DTO.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Application.DTO\bin\Debug\net5.0\Company.Learn.Application.DTO.pdb
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Application.DTO\obj\Debug\net5.0\Company.Learn.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Application.DTO\obj\Debug\net5.0\Company.Learn.Application.DTO.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Application.DTO\obj\Debug\net5.0\Company.Learn.Application.DTO.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Application.DTO\obj\Debug\net5.0\Company.Learn.Application.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Application.DTO\obj\Debug\net5.0\Company.Learn.Application.DTO.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Application.DTO\obj\Debug\net5.0\ref\Company.Learn.Application.DTO.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Application.DTO\obj\Debug\net5.0\Company.Learn.Application.DTO.pdb

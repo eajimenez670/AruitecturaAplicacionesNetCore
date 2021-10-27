@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xO97BYvKgUo2jROM7wd0mOiEloMf6kY7OC2PJBov0wkg8E+Ncg9mlcVUHvvIcL9/gUZpAe5Qy5d2cKl2+qQcog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\CursoArquitecturaAplicaciones\\Company.Learn\\Company.Learn.Infrastructure.Repository\\Company.Learn.Infrastructure.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

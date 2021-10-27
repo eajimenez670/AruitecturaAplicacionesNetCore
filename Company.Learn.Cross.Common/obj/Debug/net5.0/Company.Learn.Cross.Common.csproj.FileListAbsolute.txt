@@ -1,0 +1,11 @@
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Common\bin\Debug\net5.0\Company.Learn.Cross.Common.deps.json
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Common\bin\Debug\net5.0\Company.Learn.Cross.Common.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Common\bin\Debug\net5.0\ref\Company.Learn.Cross.Common.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Common\bin\Debug\net5.0\Company.Learn.Cross.Common.pdb
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Common\obj\Debug\net5.0\Company.Learn.Cross.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Common\obj\Debug\net5.0\Company.Learn.Cross.Common.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Common\obj\Debug\net5.0\Company.Learn.Cross.Common.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Common\obj\Debug\net5.0\Company.Learn.Cross.Common.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Common\obj\Debug\net5.0\Company.Learn.Cross.Common.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Common\obj\Debug\net5.0\ref\Company.Learn.Cross.Common.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Common\obj\Debug\net5.0\Company.Learn.Cross.Common.pdb

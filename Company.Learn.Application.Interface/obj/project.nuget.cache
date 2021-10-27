@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DGS9OMR6y/m/DN/MYGh58SCI6NytI8gt7Ov5zxY822/ZflgWkyNm7zy65oBnVBivKGTJTYtj3DzRycacmeeFGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\CursoArquitecturaAplicaciones\\Company.Learn\\Company.Learn.Application.Interface\\Company.Learn.Application.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

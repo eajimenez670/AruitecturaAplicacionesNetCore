@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Infrastructure.Interface\bin\Debug\net5.0\Company.Learn.Infrastructure.Interface.deps.json
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Infrastructure.Interface\bin\Debug\net5.0\Company.Learn.Infrastructure.Interface.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Infrastructure.Interface\bin\Debug\net5.0\ref\Company.Learn.Infrastructure.Interface.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Infrastructure.Interface\bin\Debug\net5.0\Company.Learn.Infrastructure.Interface.pdb
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Infrastructure.Interface\bin\Debug\net5.0\Company.Learn.Domain.Entity.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Infrastructure.Interface\bin\Debug\net5.0\Company.Learn.Domain.Entity.pdb
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Infrastructure.Interface\obj\Debug\net5.0\Company.Learn.Infrastructure.Interface.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Infrastructure.Interface\obj\Debug\net5.0\Company.Learn.Infrastructure.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Infrastructure.Interface\obj\Debug\net5.0\Company.Learn.Infrastructure.Interface.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Infrastructure.Interface\obj\Debug\net5.0\Company.Learn.Infrastructure.Interface.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Infrastructure.Interface\obj\Debug\net5.0\Company.Learn.Infrastructure.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Infrastructure.Interface\obj\Debug\net5.0\Company.Learn.Infrastructure.Interface.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Infrastructure.Interface\obj\Debug\net5.0\Company.Learn.Infrastructure.Interface.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Infrastructure.Interface\obj\Debug\net5.0\ref\Company.Learn.Infrastructure.Interface.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Infrastructure.Interface\obj\Debug\net5.0\Company.Learn.Infrastructure.Interface.pdb

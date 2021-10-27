@@ -1,0 +1,17 @@
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Mapper\bin\Debug\net5.0\Company.Learn.Cross.Mapper.deps.json
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Mapper\bin\Debug\net5.0\Company.Learn.Cross.Mapper.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Mapper\bin\Debug\net5.0\ref\Company.Learn.Cross.Mapper.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Mapper\bin\Debug\net5.0\Company.Learn.Cross.Mapper.pdb
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Mapper\bin\Debug\net5.0\Company.Learn.Application.DTO.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Mapper\bin\Debug\net5.0\Company.Learn.Domain.Entity.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Mapper\bin\Debug\net5.0\Company.Learn.Application.DTO.pdb
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Mapper\bin\Debug\net5.0\Company.Learn.Domain.Entity.pdb
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Mapper\obj\Debug\net5.0\Company.Learn.Cross.Mapper.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Mapper\obj\Debug\net5.0\Company.Learn.Cross.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Mapper\obj\Debug\net5.0\Company.Learn.Cross.Mapper.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Mapper\obj\Debug\net5.0\Company.Learn.Cross.Mapper.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Mapper\obj\Debug\net5.0\Company.Learn.Cross.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Mapper\obj\Debug\net5.0\Company.Learn.Cross.Mapper.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Mapper\obj\Debug\net5.0\Company.Learn.Cross.Mapper.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Mapper\obj\Debug\net5.0\ref\Company.Learn.Cross.Mapper.dll
+C:\Users\Usuario\OneDrive\Documentos\CursoArquitecturaAplicaciones\Company.Learn\Company.Learn.Cross.Mapper\obj\Debug\net5.0\Company.Learn.Cross.Mapper.pdb

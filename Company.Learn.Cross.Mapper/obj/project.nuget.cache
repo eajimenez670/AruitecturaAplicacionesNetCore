@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I+tiNzHwlgafqBqozE52d2l93zyTu6wpK8B3h7TFcytghM7uOfoEbpQHzbJN5iue9d/OJ7at+AxWb6x3o7v+6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\CursoArquitecturaAplicaciones\\Company.Learn\\Company.Learn.Cross.Mapper\\Company.Learn.Cross.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
